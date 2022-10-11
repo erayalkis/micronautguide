@@ -1,6 +1,6 @@
 ## Micronaut 3.7.1 Documentation
 
-Micronaut framework using *Gradle**.
+Micronaut framework using **Gradle**.
 
 - [User Guide](https://docs.micronaut.io/3.7.1/guide/index.html)
 - [API Reference](https://docs.micronaut.io/3.7.1/api/index.html)
